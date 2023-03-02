@@ -52,7 +52,8 @@ const styles = StyleSheet.create({
         justifyContent: 'center'
     },
     label: {
-        fontWeight: params.fontSize,
+        fontWeight: 'bold',
+        fontSize: params.fontSize,
     },
     exploded: {
         backgroundColor:'red',
